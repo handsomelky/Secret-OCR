@@ -1,0 +1,17 @@
+MetadataTable > #controlPanel {
+    background-color: white;
+    border-left: 1px solid rgb(229, 229, 229);
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+}
+
+MetadataTable > #table {
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.024);
+}
+
+MetadataCleanPage, #view {
+    background-color: transparent;
+}
